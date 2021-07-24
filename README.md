@@ -1,2 +1,2 @@
-# The-Armadillo-Runner-Game---Java-Edition
-Welcome to the amazing world of armadillos
+# p5.play-boilerplate
+Boiler plate for p5.play
